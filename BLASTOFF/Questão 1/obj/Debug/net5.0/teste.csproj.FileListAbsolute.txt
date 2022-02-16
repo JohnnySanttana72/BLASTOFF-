@@ -1,0 +1,16 @@
+C:\Users\Johnny\Desktop\teste\bin\Debug\net5.0\teste.exe
+C:\Users\Johnny\Desktop\teste\bin\Debug\net5.0\teste.deps.json
+C:\Users\Johnny\Desktop\teste\bin\Debug\net5.0\teste.runtimeconfig.json
+C:\Users\Johnny\Desktop\teste\bin\Debug\net5.0\teste.runtimeconfig.dev.json
+C:\Users\Johnny\Desktop\teste\bin\Debug\net5.0\teste.dll
+C:\Users\Johnny\Desktop\teste\bin\Debug\net5.0\ref\teste.dll
+C:\Users\Johnny\Desktop\teste\bin\Debug\net5.0\teste.pdb
+C:\Users\Johnny\Desktop\teste\obj\Debug\net5.0\teste.csproj.AssemblyReference.cache
+C:\Users\Johnny\Desktop\teste\obj\Debug\net5.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johnny\Desktop\teste\obj\Debug\net5.0\teste.AssemblyInfoInputs.cache
+C:\Users\Johnny\Desktop\teste\obj\Debug\net5.0\teste.AssemblyInfo.cs
+C:\Users\Johnny\Desktop\teste\obj\Debug\net5.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\Desktop\teste\obj\Debug\net5.0\teste.dll
+C:\Users\Johnny\Desktop\teste\obj\Debug\net5.0\ref\teste.dll
+C:\Users\Johnny\Desktop\teste\obj\Debug\net5.0\teste.pdb
+C:\Users\Johnny\Desktop\teste\obj\Debug\net5.0\teste.genruntimeconfig.cache

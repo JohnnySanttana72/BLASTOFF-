@@ -1,0 +1,16 @@
+C:\Users\Johnny\Pictures\Camera Roll\questao13\bin\Debug\net5.0\questao13.exe
+C:\Users\Johnny\Pictures\Camera Roll\questao13\bin\Debug\net5.0\questao13.deps.json
+C:\Users\Johnny\Pictures\Camera Roll\questao13\bin\Debug\net5.0\questao13.runtimeconfig.json
+C:\Users\Johnny\Pictures\Camera Roll\questao13\bin\Debug\net5.0\questao13.runtimeconfig.dev.json
+C:\Users\Johnny\Pictures\Camera Roll\questao13\bin\Debug\net5.0\questao13.dll
+C:\Users\Johnny\Pictures\Camera Roll\questao13\bin\Debug\net5.0\ref\questao13.dll
+C:\Users\Johnny\Pictures\Camera Roll\questao13\bin\Debug\net5.0\questao13.pdb
+C:\Users\Johnny\Pictures\Camera Roll\questao13\obj\Debug\net5.0\questao13.csproj.AssemblyReference.cache
+C:\Users\Johnny\Pictures\Camera Roll\questao13\obj\Debug\net5.0\questao13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johnny\Pictures\Camera Roll\questao13\obj\Debug\net5.0\questao13.AssemblyInfoInputs.cache
+C:\Users\Johnny\Pictures\Camera Roll\questao13\obj\Debug\net5.0\questao13.AssemblyInfo.cs
+C:\Users\Johnny\Pictures\Camera Roll\questao13\obj\Debug\net5.0\questao13.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\Pictures\Camera Roll\questao13\obj\Debug\net5.0\questao13.dll
+C:\Users\Johnny\Pictures\Camera Roll\questao13\obj\Debug\net5.0\ref\questao13.dll
+C:\Users\Johnny\Pictures\Camera Roll\questao13\obj\Debug\net5.0\questao13.pdb
+C:\Users\Johnny\Pictures\Camera Roll\questao13\obj\Debug\net5.0\questao13.genruntimeconfig.cache

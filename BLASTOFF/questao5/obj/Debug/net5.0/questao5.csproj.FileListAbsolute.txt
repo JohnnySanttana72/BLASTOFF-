@@ -1,0 +1,16 @@
+C:\Users\Johnny\Desktop\questao5\obj\Debug\net5.0\questao5.csproj.AssemblyReference.cache
+C:\Users\Johnny\Desktop\questao5\obj\Debug\net5.0\questao5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johnny\Desktop\questao5\obj\Debug\net5.0\questao5.AssemblyInfoInputs.cache
+C:\Users\Johnny\Desktop\questao5\obj\Debug\net5.0\questao5.AssemblyInfo.cs
+C:\Users\Johnny\Desktop\questao5\obj\Debug\net5.0\questao5.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\Desktop\questao5\bin\Debug\net5.0\questao5.exe
+C:\Users\Johnny\Desktop\questao5\bin\Debug\net5.0\questao5.deps.json
+C:\Users\Johnny\Desktop\questao5\bin\Debug\net5.0\questao5.runtimeconfig.json
+C:\Users\Johnny\Desktop\questao5\bin\Debug\net5.0\questao5.runtimeconfig.dev.json
+C:\Users\Johnny\Desktop\questao5\bin\Debug\net5.0\questao5.dll
+C:\Users\Johnny\Desktop\questao5\bin\Debug\net5.0\ref\questao5.dll
+C:\Users\Johnny\Desktop\questao5\bin\Debug\net5.0\questao5.pdb
+C:\Users\Johnny\Desktop\questao5\obj\Debug\net5.0\questao5.dll
+C:\Users\Johnny\Desktop\questao5\obj\Debug\net5.0\ref\questao5.dll
+C:\Users\Johnny\Desktop\questao5\obj\Debug\net5.0\questao5.pdb
+C:\Users\Johnny\Desktop\questao5\obj\Debug\net5.0\questao5.genruntimeconfig.cache
